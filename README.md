@@ -3,7 +3,7 @@
 
 A calculator built with C# and WPF (.NET Framework). The app is currently under development and demonstrates basic UI interactions, arithmetic operations, and use of XAML in desktop applications.
 
-![Screenshot 2025-04-18 at 9.08.54](Screenshot 2025-04-18 at 9.08.54.png)
+<img width="786" alt="Screenshot 2025-04-18 at 9 08 54" src="https://github.com/user-attachments/assets/963ae5de-092e-4609-988d-8d14971768f4" />
 
 ## Features
 
