@@ -39,9 +39,12 @@ A calculator built with C# and WPF (.NET Framework). The app is currently under 
 
 ## TODO
 
-- Add advanced operations (percent, square root, memory buttons)
 - Improve UI styling and themes
 - Refactor for MVVM pattern (optional)
+  
+## Credits
+
+Developed by: Stanimir Petkov
 
 ## License
 
